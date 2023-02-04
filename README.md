@@ -26,8 +26,7 @@ Junhyung-coding/README.md
 
 💻 Activity & Study 💻
 
-🎥 My video ㅤㅤ| ㅤ👉🏻
-
-🤳 My account ㅤ| ㅤ👉🏻 
-
-👨🏻‍🏫 My blog ㅤ ㅤ | ㅤ👉🏻 
+🎥 My Participation in the competitionㅤ|  ㅤ👉🏻 2019.03 ~ 2019.12 임베디드 로봇대회 (본선진출)
+                                             👉🏻 2020.07 ~ 2021.01 Design Thinking대회 (우수상)
+                                             👉🏻 2023.01 ~ 2023.11 전국대학생로켓발사대회 
+                                             👉🏻 2023.01 ~ 2023.11 전국대학생창작자동차대회<자율주행> 
