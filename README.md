@@ -1,16 +1,33 @@
-### Hi there 👋
+Junhyung-coding/README.md
+👾 About me 👾
 
-<!--
-**Imjunhyung/Imjunhyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ㅤName 🧑‍ ㅤ| ㅤIm Jun-hyung
 
-Here are some ideas to get you started:
+| ㅤAge 💀 ㅤㅤ| ㅤ24 (born 2000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ㅤE-mail 📧 ㅤ| ㅤlyhid2@naver.com
+
+| ㅤState 🌏ㅤㅤ|ㅤ Republic of Korea (ROK)
+
+
+👨‍🎓 Record 👨‍🎓
+
+2016.03.02 ~ 2019.02.16ㅤ:ㅤ Graduated from seoil High School 📚
+
+2019.03.04 ~ㅤㅤㅤㅤㅤㅤ: ㅤ Seoul National University of Science and Technology | Major : Mechanical System Design Engineering 🔧
+
+
+
+📄 My Papers 📄
+
+ ㅤ ㅤ ㅤㅤ| ㅤ👉🏻
+
+         ㅤ| ㅤ👉🏻 
+
+💻 Activity & Study 💻
+
+🎥 My video ㅤㅤ| ㅤ👉🏻
+
+🤳 My account ㅤ| ㅤ👉🏻 
+
+👨🏻‍🏫 My blog ㅤ ㅤ | ㅤ👉🏻 
